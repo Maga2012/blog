@@ -1,4 +1,0 @@
-Les posts sont dans content/posts/*.md
-Démarrer le serveur hugo : hugo server -D
-Voir le rendu : http://localhost:1313
-
