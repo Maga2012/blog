@@ -1,4 +1,17 @@
 Les posts sont dans content/posts/*.md
-Démarrer le serveur hugo : hugo server -D
-Voir le rendu : http://localhost:1313
 
+# Rendu Local
+Démarrer le serveur hugo : hugo server -D
+Voir le rendu local : http://localhost:1313
+
+# Rendu Web
+https://maga2012.github.io/blog
+
+
+# Workflow
+```
+hugo new posts/x.md
+git add .
+git commit -m "new post"
+git push
+```
